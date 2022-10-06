@@ -459,6 +459,16 @@
               <FileType>5</FileType>
               <FilePath>.\uart_drive.h</FilePath>
             </File>
+            <File>
+              <FileName>lcd_1602_drive.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lcd_1602_drive.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd_1602_drive.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lcd_1602_drive.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
